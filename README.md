@@ -1,6 +1,8 @@
 # COVID-19_Tracker
 ### This is a Web based project used to Track daily COVID-19 case with some integrated module like Contact and Admin Page likely to partially can be implements in Health care sector.
 ### This project was created in PHP, JavaScript, Html, CSS, Bootstrap, By using of REST API
+
+This Link can see the design part can't see the backend data https://covid-stats-tracker19.herokuapp.com/
 ### **HOME PAGE**
 ![Screenshot (143)](https://user-images.githubusercontent.com/69732296/118332690-1a548c80-b528-11eb-942d-bd94acf4b222.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/69732296/118333196-f180c700-b528-11eb-8946-c7dea2f2b466.png)
